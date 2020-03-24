@@ -1,2 +1,2 @@
-# FirstRemoteRepo-KursGit
+# Paragon z warzywniaka
 learning
